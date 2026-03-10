@@ -1,0 +1,10 @@
+# Ignore sensitive log files
+*.log
+evidence.txt
+
+# Ignore environment variables
+.env
+
+# Ignore local Python virtual environments
+venv/
+__pycache__/
